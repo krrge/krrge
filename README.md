@@ -3,6 +3,7 @@
 ## About Me
 - Japanese / 日本人
 - IT系
+- 19歳
 
 ## Socials
 - Twitter: [@__2x7](https://x.com/__2x7)
