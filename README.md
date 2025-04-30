@@ -1,7 +1,7 @@
 # Hi, I'm krrge!
 
 ## About Me
-- IT系
+- IT系 / 日本人
 
 ## Socials
 - X（旧Twitter）： [@__2x7](https://x.com/__2x7)
