@@ -7,6 +7,7 @@
 ## Socials
 - Twitter： [@__2x7](https://x.com/__2x7)
 - Note： [note.com/krrge](https://note.com/krrge)
+- SoundCloud: [soundcloud.com/krrge](https://soundcloud.com/krrge)
 
 ## PC Specs
 
