@@ -4,6 +4,7 @@
 - Japanese / 日本人
 - 19歳
 - IT系
+- krrgeとかいてくらげと読みます。
 
 ## Socials
 - Twitter: [@__2x7](https://twitter.com/__2x7)
