@@ -7,7 +7,7 @@
 - krrgeと書いてくらげと読みます。
 
 ## Socials
-- Twitter: [@__2x7](https://twitter.com/__2x7)
+- Twitter: [@krrgeGOD](https://twitter.com/krrgeGOD)
 - Note: [note.com/krrge](https://note.com/krrge)
 - SoundCloud: [soundcloud.com/krrge](https://soundcloud.com/krrge)
 - Steam: [steamcommunity.com/krrge](https://steamcommunity.com/id/krrge/)
