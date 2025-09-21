@@ -12,7 +12,7 @@
 - SoundCloud: [soundcloud.com/krrge](https://soundcloud.com/krrge)
 - Steam: [steamcommunity.com/krrge](https://steamcommunity.com/id/krrge/)
 
-## PC Specs
+## Gaming PC Specs
 
 - **CPU**: Intel Core i7-10700  
 - **GPU**: NVIDIA GeForce RTX 2060 SUPER  
