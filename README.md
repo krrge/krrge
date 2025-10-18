@@ -18,7 +18,7 @@
 - **GPU**: NVIDIA GeForce RTX 2060 SUPER  
 - **RAM**: 16GB DDR4  
 - **Storage**: 1TB SSD  
-- **OS**: AtlasOS Windows 11 23H2
+- **OS**:Windows 11 Home 23H2
 
 ---
 
