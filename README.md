@@ -9,5 +9,3 @@ Used to work on designing racing cars.
 ## Funs:
 - I don't like cofee, But I like tea.
 - Counter-Strike playng every day
-
----
