@@ -1,16 +1,13 @@
-# Hi, I'm krrge!
+## Hi!
 
-## About Me
-- Japanese / 日本人
-- 19歳
-- JavaScript TypeScript
-- krrgeと書いてくらげと読みます。
+I'm krrge(海月), a inside company system enginner in Japanese.
 
-## Socials
-- Twitter: [@krrgeGOD](https://twitter.com/krrgeGOD)
-- Note: [note.com/krrge](https://note.com/krrge)
-- SoundCloud: [soundcloud.com/krrge](https://soundcloud.com/krrge)
-- Steam: [steamcommunity.com/krrge](https://steamcommunity.com/id/krrge/)
+I staff task assistant and building the systems.
+
+Used to work on designing racing cars.
+
+# Funs:
+- I don't like cofee, But I like tea.
+- Counter-Strike playng every day
 
 ---
-
