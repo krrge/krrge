@@ -7,5 +7,5 @@ I staff task assistant and building the systems.
 Used to work on designing racing cars.
 
 ### Funs:
-- I don't like cofee, But I like tea.
+- I don't like cofee, But I like lemontea.
 - Counter-Strike playng every day
