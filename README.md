@@ -2,7 +2,7 @@
 
 I'm krrge(海月), a inside company system enginner in Japanese.
 
-I staff task assistant and building the systems.
+Website and web application development, video and audio equipment engineering, SE
 
 ### Funs:
 - I don't like cofee, But I like lemontea.
